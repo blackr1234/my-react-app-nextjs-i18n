@@ -1,0 +1,21 @@
+{
+	"navMenu": {
+		"home": "Home",
+		"apple": "Apple",
+		"banana": "Banana",
+		"carrot": "Carrot"
+	},
+	"homePage": {
+		"text_1": "Home",
+		"redirect": "Redirecting in..."
+	},
+	"applePage": {
+		"text_1": "Apple"
+	},
+	"bananaPage": {
+		"text_1": "Banana"
+	},
+	"carrotPage": {
+		"text_1": "Carrot"
+	}
+}

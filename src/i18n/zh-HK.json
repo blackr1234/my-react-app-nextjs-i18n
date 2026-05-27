@@ -1,0 +1,21 @@
+{
+	"navMenu": {
+		"home": "主頁",
+		"apple": "蘋果",
+		"banana": "香蕉",
+		"carrot": "蘿蔔"
+	},
+	"homePage": {
+		"text_1": "主頁",
+		"redirect": "將跳轉..."
+	},
+	"applePage": {
+		"text_1": "蘋果"
+	},
+	"bananaPage": {
+		"text_1": "香蕉"
+	},
+	"carrotPage": {
+		"text_1": "蘿蔔"
+	}
+}
